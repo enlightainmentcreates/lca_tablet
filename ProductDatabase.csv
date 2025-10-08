@@ -1,5 +1,5 @@
 ﻿id,productName,unit,category,manufacturingCO2,transportCO2,useCO2,disposeCO2,recycleCO2,priod,per_year,recycle_true_or_false,imageName
-0,タブレット,機,4電子機器,63.415,5.975227785,2.963333333,0.008949464,-5.5565,年,1,TRUE,Tablet
+0,タブレット,機,4電子機器,50,5.975227785,2.963333333,0.008949464,-5.5565,年,1,TRUE,Tablet
 1,ペンケース,個,1勉強,0.201,0.057656,0,0.0492,0,年,1,FALSE,Pencil_Case
 2,ルーズリーフ,枚,1勉強,1.3819,0.42028,0,0.586,0,年,1,FALSE,Loose-leaf_Paper
 3,教科書,冊,1勉強,1.2,0.33714,0,0.00259,-0.156,年,1,TRUE,Textbook
@@ -56,4 +56,5 @@
 54,アイシャドウ・アイライナー,個,2小物,2.199875,0.006522333,0,0.0115,0,ヶ月,12,FALSE,Eye_Shadow・Eyeliner
 55,チーク,個,2小物,8.7995,0.015714333,0,0.026833333,0,ヶ月,12,FALSE,Blush
 56, , , ,0,0,0,0,0,  ,0,FALSE,NoImage
+
 
